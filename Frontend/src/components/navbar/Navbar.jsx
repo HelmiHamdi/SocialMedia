@@ -29,10 +29,10 @@ function Navbar() {
         <EmailOutlinedIcon />
         <NotificationsOutlinedIcon />
         <div className="user">
-          {/* <img
+           <img
             src="https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1600"
             alt=""
-          /> */}
+          /> 
           <span>John Doe</span>
         </div>
         </div>
